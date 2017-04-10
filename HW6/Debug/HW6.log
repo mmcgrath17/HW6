@@ -1,0 +1,37 @@
+﻿  Source.cpp
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(41): error C2365: 'Circle::numberOfObjects': redefinition; previous definition was 'data member'
+  c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(9): note: see declaration of 'Circle::numberOfObjects'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(42): error C2059: syntax error: 'return'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(42): error C2238: unexpected token(s) preceding ';'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(45): error C2628: 'Circle' followed by 'bool' is illegal (did you forget a ';'?)
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(46): error C2805: binary 'operator <' has too few parameters
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(47): error C2065: 'radius': undeclared identifier
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(54): error C2805: binary 'operator >' has too few parameters
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(55): error C2065: 'radius': undeclared identifier
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(62): error C2805: binary 'operator <=' has too few parameters
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(63): error C2065: 'radius': undeclared identifier
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(70): error C2805: binary 'operator >=' has too few parameters
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(71): error C2065: 'radius': undeclared identifier
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(78): error C2805: binary 'operator ==' has too few parameters
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(79): error C2065: 'radius': undeclared identifier
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(86): error C2805: binary 'operator !=' has too few parameters
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(87): error C2065: 'radius': undeclared identifier
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(94): error C2059: syntax error: '}'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\circle.h(94): error C2143: syntax error: missing ';' before '}'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(97): error C2535: 'Complex Complex::operator ++(void)': member function already defined or declared
+  c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(86): note: see declaration of 'Complex::operator ++'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(101): error C2535: 'Complex Complex::operator --(void)': member function already defined or declared
+  c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(91): note: see declaration of 'Complex::operator --'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(53): error C2146: syntax error: missing ';' before identifier 'z'
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(98): error C2105: '++' needs l-value
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(98): error C2440: 'return': cannot convert from 'Complex *const ' to 'Complex'
+  c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(98): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(102): error C2105: '--' needs l-value
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(102): error C2440: 'return': cannot convert from 'Complex *const ' to 'Complex'
+  c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\complex.h(102): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\source.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\source.cpp(98): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\source.cpp(99): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\source.cpp(100): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+c:\users\matth\documents\visual studio 2015\projects\hw6\hw6\source.cpp(101): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
